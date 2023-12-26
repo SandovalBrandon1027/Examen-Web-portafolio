@@ -9,6 +9,8 @@
    ![image](https://github.com/DennisCatana/Examen-Web/assets/117744033/b32d6c97-b757-4f53-aab9-630dc0d66842)<br>
 3. Cree una nueva Base de Datos.<br>
    ![image](https://github.com/DennisCatana/Examen-Web/assets/117744033/16d66f1d-d443-404b-bf0f-30dfd46b7889)<br>
+4. Cree un usuario y una contraseña para la Base de Datos.<br>
+   ![image](https://github.com/DennisCatana/Examen-Web/assets/117744033/bf3fd174-c29d-43be-8c0f-3d7098c36078)
 
 
    
