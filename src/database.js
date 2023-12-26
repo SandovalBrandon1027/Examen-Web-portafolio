@@ -1,7 +1,11 @@
 const mongoose = require('mongoose');
 
+//Se Establece la cadena de conexion que proporciona Mongo Atlas
+//mongodb+srv://Dennis2003:<password>@cluster0.euw1ldq.mongodb.net/
 
+//Se cambia <password> por la contraseña que se usara ademas de agregar al final el nombre de la BD
 const MONGODB_URI = 'mongodb+srv://Dennis2003:123*@cluster0.euw1ldq.mongodb.net/DatosEjemplo';
+
 
 const connectDB = async () => {
     try {
