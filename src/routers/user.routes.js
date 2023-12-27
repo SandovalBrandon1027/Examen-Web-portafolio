@@ -13,5 +13,8 @@ router.post('/user/login',loginUser)
 
 router.post('/user/logout',logoutUser)
 
+//Ruta para confirmar la cuenta del usuario 
+router.get('/user/confirmar/:token',confirmEmail)
+
 
 module.exports =router
