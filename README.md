@@ -9,6 +9,7 @@
 Para comenzar a desarrollar las onfiguraciones necesarias. Procederemos a trabajar en el consumo de una API externa para el formulario de contacto:<br>
 Para ello nosotros nos ubicaremos en la dirección /src/views/index.hbs. Despues nos ubicaremos en el apartado "Contact Section Form" <br>
 Ahora deberemos editar el <form> de la siguiente manera <br>
+  
 ![image](https://github.com/DennisCatana/Examen-Web/assets/139184732/700ee5da-a963-4779-9712-2fc212c6d18e). <br>
 Ahora debemos declarar la direccion de email que recibirá la informacion de los formularios de contactos. <br>
 ![image](https://github.com/DennisCatana/Examen-Web/assets/139184732/4aaf72b5-f054-4a54-9f70-2c23071d689a) <br>
@@ -25,7 +26,4 @@ Despues de ello ya podremos recibir la informacion colocada en los formularios d
 <br>
 ![image](https://github.com/DennisCatana/Examen-Web/assets/139184732/9ec6564a-df99-4f3e-adbb-7b516d0cb1e8)
 
-
-
-<br>
 ## Deploy <br>
