@@ -1,5 +1,6 @@
 //Importar nodemailer
-const nodemailer = require("nodemailer");
+const nodemailer = require('nodemailer');
+require('dotenv').config(); // Para leer las variables de entorno desde el archivo .env
 
 // creacion del transportador para el envio de correos utilizando SMTP
  
@@ -11,7 +12,7 @@ const transporter = nodemailer.createTransport({
         pass: process.env.PASS_MAILTRAP
     }
 })
-
+module.exports = transporter;
 
 // Estructura del correo Electronico
 module.exports.sendMailToUser = async(userMail,token)=>{
