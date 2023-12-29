@@ -46,3 +46,24 @@
 ![image](https://github.com/DennisCatana/Examen-Web/assets/139184732/9ec6564a-df99-4f3e-adbb-7b516d0cb1e8)
 
 ## Deploy <br>
+* Comentaremos las lineas de codigo las cuales esten usando el paquete dotenv.<br>
+>//require('dotenv').config()
+* Creamos un nuevo Web Service dentro de Render.<br>
+![image](https://github.com/DennisCatana/Examen-Web/assets/150082943/5a5c9471-bbe2-4d59-9819-43283187bcc4)<br>
+* Copiamos la url de este repositorio, lo pegamos en Public Git repository y damos a Continue.<br>
+![image](https://github.com/DennisCatana/Examen-Web/assets/150082943/f4ba6e30-ffb0-48a6-8b9c-0beca3a633f0)<br>
+* Y llenamos cada campo de la siguiente forma.<br>
+![image](https://github.com/DennisCatana/Examen-Web/assets/150082943/76c1787a-a501-47a8-aafd-d94f5d6e53da)<br>
+* Luego selecionamos el Instance Type, agregamos las variables de entorno y damos a Create Web Service.<br>
+![image](https://github.com/DennisCatana/Examen-Web/assets/150082943/5abb4987-0c4b-412b-8f73-e38fcf5c0aa1)<br>
+* Ahora ya con el deploy de nuestro proyecto, agregaremos una variable de entorno llamada URL donde su valor será la url que nos da Render.<br>
+![image](https://github.com/DennisCatana/Examen-Web/assets/150082943/781fe8c6-c13f-448c-8f1f-799d16f99511)<br>
+* Guardamos y esperamos a que inicie de nuevo, ya podemos usar nuestra página.<br>
+![image](https://github.com/DennisCatana/Examen-Web/assets/150082943/a00e0a96-ee50-46d5-8d9d-d9ddeff9a117)<br>
+* Resultados:<br>
+![image](https://github.com/DennisCatana/Examen-Web/assets/150082943/b46dd604-d2c9-47eb-8777-12771705dea1)<br>
+
+
+
+
+
