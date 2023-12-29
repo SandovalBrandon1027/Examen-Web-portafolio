@@ -1,4 +1,4 @@
-const Portfolio = require('../models/Portfolio')
+const Portfolio = require('../models/portfolio')
 const { uploadImage } = require('../config/clodinary')
 const renderAllPortafolios = async(req,res)=>{
     const portfolios = await Portfolio.find({user:req.user._id}).lean()
