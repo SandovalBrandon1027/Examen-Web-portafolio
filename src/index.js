@@ -2,7 +2,7 @@ const connectDB  = require('./database.js');
 const app = require('./server.js')
 
 
-require('dotenv').config()
+//require('dotenv').config()
 
 connectDB()
 app.listen(app.get('port'),()=>{
