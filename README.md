@@ -15,9 +15,10 @@
 ![WhatsApp Image 2023-12-29 at 11 55 59](https://github.com/DennisCatana/Examen-Web/assets/117743538/507d04aa-2b4d-4303-8540-2e36a6c2f786) <br>
 
  * Creamos el archivo .env para hacer las configuraciones para el envio de correos. <br>
+ ![WhatsApp Image 2023-12-29 at 11 42 00](https://github.com/DennisCatana/Examen-Web/assets/117743538/f6ed5112-dfb8-4982-906c-bcdfdf6d0ca8) <br>
+
 ![WhatsApp Image 2023-12-29 at 11 58 07](https://github.com/DennisCatana/Examen-Web/assets/117743538/78561658-2fe8-4c80-bbb5-ec18aa774bea) <br>
 
-![WhatsApp Image 2023-12-29 at 11 42 00](https://github.com/DennisCatana/Examen-Web/assets/117743538/f6ed5112-dfb8-4982-906c-bcdfdf6d0ca8) <br>
 
 * Nos registramos, llenamos todos los campos. <br>
 ![WhatsApp Image 2023-12-28 at 19 47 48](https://github.com/DennisCatana/Examen-Web/assets/117743538/3b3d745f-ec91-42fe-87f6-787bcf1c2819) <br>
