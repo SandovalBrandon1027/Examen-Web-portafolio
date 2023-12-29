@@ -18,6 +18,7 @@
  ![WhatsApp Image 2023-12-29 at 11 42 00](https://github.com/DennisCatana/Examen-Web/assets/117743538/f6ed5112-dfb8-4982-906c-bcdfdf6d0ca8) <br>
 
 
+![WhatsApp Image 2023-12-29 at 17 56 22](https://github.com/DennisCatana/Examen-Web/assets/117743538/da506e64-2eff-4be9-ba9f-6d81fb27ea59)
 
 
 * Nos registramos, llenamos todos los campos. <br>
