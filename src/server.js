@@ -22,7 +22,7 @@ app.set('view engine','.hbs')
 
 
 // Configuraciones 
-app.set('port',process.env.port || 3000)
+app.set('port',process.env.PORT || 3000)
 app.set('views',path.join(__dirname, 'views'))
 app.use(fileUpload({
     useTempFiles : true,
