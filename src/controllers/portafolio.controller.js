@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-const Portfolio = require('../models/Portfolio')
+const Portfolio = require('../models/portfolio')
 const fs = require('fs-extra')
 =======
 const Portfolio = require('../models/portfolio')
