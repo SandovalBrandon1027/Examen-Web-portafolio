@@ -3,36 +3,36 @@
 ## Mail – Nodemailer <br>
 
 
-* Dentro del modelo - user.js vamos a crear dos atributos.
-* 1.- Token
-* 2.- Confirmacion del email
-![WhatsApp Image 2023-12-29 at 11 49 05](https://github.com/DennisCatana/Examen-Web/assets/117743538/a6b566d6-4a0d-4dea-9512-c45ab45c62ef)
+* Dentro del modelo - user.js vamos a crear dos atributos. <br>
+* 1.- Token <br>
+* 2.- Confirmacion del email <br>
+![WhatsApp Image 2023-12-29 at 11 49 05](https://github.com/DennisCatana/Examen-Web/assets/117743538/a6b566d6-4a0d-4dea-9512-c45ab45c62ef) <br>
 
-* Creamos tambien un mètodo para poder establecer el token
-![WhatsApp Image 2023-12-29 at 11 52 41](https://github.com/DennisCatana/Examen-Web/assets/117743538/40c46984-9b76-4e59-aeae-eb58d638d45e)
+* Creamos tambien un mètodo para poder establecer el token <br>
+![WhatsApp Image 2023-12-29 at 11 52 41](https://github.com/DennisCatana/Examen-Web/assets/117743538/40c46984-9b76-4e59-aeae-eb58d638d45e) <br>
 
-* Instalamos la libreria npm i nodemailer
-![WhatsApp Image 2023-12-29 at 11 55 59](https://github.com/DennisCatana/Examen-Web/assets/117743538/507d04aa-2b4d-4303-8540-2e36a6c2f786)
+* Instalamos la libreria npm i nodemailer <br>
+![WhatsApp Image 2023-12-29 at 11 55 59](https://github.com/DennisCatana/Examen-Web/assets/117743538/507d04aa-2b4d-4303-8540-2e36a6c2f786) <br>
 
- * Creamos el archivo .env para hacer las configuraciones para el envio de correos.
-![WhatsApp Image 2023-12-29 at 11 58 07](https://github.com/DennisCatana/Examen-Web/assets/117743538/78561658-2fe8-4c80-bbb5-ec18aa774bea)
+ * Creamos el archivo .env para hacer las configuraciones para el envio de correos. <br>
+![WhatsApp Image 2023-12-29 at 11 58 07](https://github.com/DennisCatana/Examen-Web/assets/117743538/78561658-2fe8-4c80-bbb5-ec18aa774bea) <br>
 
-![WhatsApp Image 2023-12-29 at 11 42 00](https://github.com/DennisCatana/Examen-Web/assets/117743538/f6ed5112-dfb8-4982-906c-bcdfdf6d0ca8)
+![WhatsApp Image 2023-12-29 at 11 42 00](https://github.com/DennisCatana/Examen-Web/assets/117743538/f6ed5112-dfb8-4982-906c-bcdfdf6d0ca8) <br>
 
-* Nos registramos, llenamos todos los campos.
-![WhatsApp Image 2023-12-28 at 19 47 48](https://github.com/DennisCatana/Examen-Web/assets/117743538/3b3d745f-ec91-42fe-87f6-787bcf1c2819)
-* Verificamos si nos llego el correo para verificar la cuenta de correo electrònico.
-![WhatsApp Image 2023-12-28 at 19 48 08](https://github.com/DennisCatana/Examen-Web/assets/117743538/126b7b32-ee0f-4398-ac34-2177a389038d)
-![WhatsApp Image 2023-12-28 at 19 48 27](https://github.com/DennisCatana/Examen-Web/assets/117743538/1ae89e44-c724-48a5-859a-280989841188)
+* Nos registramos, llenamos todos los campos. <br>
+![WhatsApp Image 2023-12-28 at 19 47 48](https://github.com/DennisCatana/Examen-Web/assets/117743538/3b3d745f-ec91-42fe-87f6-787bcf1c2819) <br>
+* Verificamos si nos llego el correo para verificar la cuenta de correo electrònico. <br>
+![WhatsApp Image 2023-12-28 at 19 48 08](https://github.com/DennisCatana/Examen-Web/assets/117743538/126b7b32-ee0f-4398-ac34-2177a389038d) <br>
+![WhatsApp Image 2023-12-28 at 19 48 27](https://github.com/DennisCatana/Examen-Web/assets/117743538/1ae89e44-c724-48a5-859a-280989841188) <br>
 
-* Podemos visualizar que el token ya fue confirmado.
-![WhatsApp Image 2023-12-28 at 19 48 48](https://github.com/DennisCatana/Examen-Web/assets/117743538/93f0afed-ba5f-418a-bfc6-1b90f9278091)
+* Podemos visualizar que el token ya fue confirmado. <br>
+![WhatsApp Image 2023-12-28 at 19 48 48](https://github.com/DennisCatana/Examen-Web/assets/117743538/93f0afed-ba5f-418a-bfc6-1b90f9278091) <br>
 
-* Ahora vamos a Login para poder ya ingresar a al cuenta.
-![WhatsApp Image 2023-12-28 at 19 49 07](https://github.com/DennisCatana/Examen-Web/assets/117743538/5ce092bd-d87e-4f27-9715-7fe0fd97a13a)
+* Ahora vamos a Login para poder ya ingresar a al cuenta. <br>
+![WhatsApp Image 2023-12-28 at 19 49 07](https://github.com/DennisCatana/Examen-Web/assets/117743538/5ce092bd-d87e-4f27-9715-7fe0fd97a13a) <br>
 
 
-![WhatsApp Image 2023-12-28 at 19 49 20](https://github.com/DennisCatana/Examen-Web/assets/117743538/0e04c639-c165-4a9f-900c-484efad16e41)
+![WhatsApp Image 2023-12-28 at 19 49 20](https://github.com/DennisCatana/Examen-Web/assets/117743538/0e04c639-c165-4a9f-900c-484efad16e41) <br>
 
 
 ## Listar Portafolios <br> 
