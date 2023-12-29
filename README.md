@@ -2,6 +2,20 @@
 
 ## Mail – Nodemailer <br>
 
+![WhatsApp Image 2023-12-28 at 19 49 07](https://github.com/DennisCatana/Examen-Web/assets/117743538/e30e9971-28c5-4672-8acd-214069e4a7f3)
+
+![WhatsApp Image 2023-12-28 at 19 49 20](https://github.com/DennisCatana/Examen-Web/assets/117743538/e65280be-53e5-4445-8d8b-b98c38196bec)
+
+![WhatsApp Image 2023-12-28 at 19 47 48](https://github.com/DennisCatana/Examen-Web/assets/117743538/bc07c81c-6c15-4a76-a033-85f8e92c73ef)
+
+![WhatsApp Image 2023-12-28 at 19 48 08](https://github.com/DennisCatana/Examen-Web/assets/117743538/95f0d9ae-6083-4a06-8806-01667cf67195)
+
+![WhatsApp Image 2023-12-28 at 19 48 27](https://github.com/DennisCatana/Examen-Web/assets/117743538/80b9a47e-5757-4a42-8584-ec2aac23f0d4)
+
+![WhatsApp Image 2023-12-28 at 19 48 48](https://github.com/DennisCatana/Examen-Web/assets/117743538/2da49e29-3205-4f89-a416-8697260af223)
+
+
+
 ## Listar Portafolios <br> 
 
 ## Formulario de Contacto <br>
