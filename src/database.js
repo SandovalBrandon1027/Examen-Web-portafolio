@@ -4,8 +4,8 @@ const mongoose = require('mongoose');
 //mongodb+srv://Dennis2003:<password>@cluster0.euw1ldq.mongodb.net/
 
 //Se cambia <password> por la contraseña que se usara ademas de agregar al final el nombre de la BD
-const MONGODB_URI = 'mongodb+srv://Dennis2003:123*@cluster0.euw1ldq.mongodb.net/DatosEjemplo';
-
+//const MONGODB_URI = 'mongodb+srv://Dennis2003:123*@cluster0.euw1ldq.mongodb.net/DatosEjemplo';
+const MONGODB_URI = 'mongodb://localhost:27017/portfolio'
 
 const connectDB = async () => {
     try {
