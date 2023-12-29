@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 const Portfolio = require('../models/portfolio')
 const fs = require('fs-extra')
-=======
-const Portfolio = require('../models/portfolio')
->>>>>>> ff9bd5b405dfd4d99677c07208dcc178cf08e332
 const { uploadImage } = require('../config/clodinary')
 
 const renderAllPortafolios = async(req,res)=>{
