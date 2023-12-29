@@ -2,6 +2,23 @@
 
 ## Mail – Nodemailer <br>
 
+
+* Dentro del modelo - user.js vamos a crear dos atributos.
+* 1.- Token
+* 2.- Confirmacion del email
+![WhatsApp Image 2023-12-29 at 11 49 05](https://github.com/DennisCatana/Examen-Web/assets/117743538/a6b566d6-4a0d-4dea-9512-c45ab45c62ef)
+
+* Creamos tambien un mètodo para poder establecer el token
+![WhatsApp Image 2023-12-29 at 11 52 41](https://github.com/DennisCatana/Examen-Web/assets/117743538/40c46984-9b76-4e59-aeae-eb58d638d45e)
+
+* Instalamos la libreria npm i nodemailer
+![WhatsApp Image 2023-12-29 at 11 55 59](https://github.com/DennisCatana/Examen-Web/assets/117743538/507d04aa-2b4d-4303-8540-2e36a6c2f786)
+
+ * Creamos el archivo .env para hacer las configuraciones para el envio de correos.
+![WhatsApp Image 2023-12-29 at 11 58 07](https://github.com/DennisCatana/Examen-Web/assets/117743538/78561658-2fe8-4c80-bbb5-ec18aa774bea)
+
+![WhatsApp Image 2023-12-29 at 11 42 00](https://github.com/DennisCatana/Examen-Web/assets/117743538/f6ed5112-dfb8-4982-906c-bcdfdf6d0ca8)
+
 * Nos registramos, llenamos todos los campos.
 ![WhatsApp Image 2023-12-28 at 19 47 48](https://github.com/DennisCatana/Examen-Web/assets/117743538/3b3d745f-ec91-42fe-87f6-787bcf1c2819)
 * Verificamos si nos llego el correo para verificar la cuenta de correo electrònico.
