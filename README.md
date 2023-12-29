@@ -19,6 +19,13 @@
 
 
 ## Listar Portafolios <br> 
+* Creamos un nuevo en la siguiente ruta. /src/views/partials/portfolios.hbs <br>
+![Imagen de WhatsApp 2023-12-29 a las 00 02 55_58bd7b98](https://github.com/DennisCatana/Examen-Web/assets/117743120/465cc9a7-4590-435a-b4ad-cce822b550b2). <br>
+* Ahora se procede a invocar el partial creado en el archivo correspondiente. /src/views/index.hbs <br>
+![Imagen de WhatsApp 2023-12-29 a las 00 03 55_75306864](https://github.com/DennisCatana/Examen-Web/assets/117743120/54fbfecf-18f2-4b3a-aa37-9125660c70b8). <br>
+* Por último verificamos <br>
+![Imagen de WhatsApp 2023-12-29 a las 00 04 25_4327a1ab](https://github.com/DennisCatana/Examen-Web/assets/117743120/0fe64dda-f393-4196-975c-5ffecc3945d9). <br>
+
 
 ## Formulario de Contacto <br>
 * Para comenzar a desarrollar las onfiguraciones necesarias. Procederemos a trabajar en el consumo de una API externa para el formulario de contacto:<br>
