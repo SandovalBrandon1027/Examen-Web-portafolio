@@ -1,6 +1,6 @@
 const Portfolio = require('../models/portfolio')
 const fs = require('fs-extra')
-const { uploadImage } = require('../config/clodinary')
+const { uploadImage , deleteImage } = require('../config/clodinary')
 
 const renderAllPortafolios = async(req,res)=>{
     const portfolios = await Portfolio.find({user:req.user._id}).lean()
