@@ -6,6 +6,8 @@ const renderRegisterForm = (req, res) => {
   res.render('user/registerForm');
 };
 
+
+
 const registerNewUser = async (req, res) => {
   const { name, email, password, confirmpassword } = req.body;
 

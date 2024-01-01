@@ -1,6 +1,6 @@
 //Importar nodemailer
 const nodemailer = require('nodemailer');
-//require('dotenv').config(); // Para leer las variables de entorno desde el archivo .env
+require('dotenv').config(); // Para leer las variables de entorno desde el archivo .env
 
 // creacion del transportador para el envio de correos utilizando SMTP
  
@@ -22,6 +22,7 @@ module.exports.sendMailToUser = async(userMail,token)=>{
     to: userMail,
     subject: "Verifica tu cuenta de correo electrónico",
     html: `<a href="${process.env.URL}/user/confirmar/${token}">Clic para confirmar tu cuenta</a>`,
+    
     });
     console.log("Message sent: %s", info.messageId);
 }
