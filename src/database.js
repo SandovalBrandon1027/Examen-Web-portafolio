@@ -1,21 +1,24 @@
-const mongoose = require('mongoose');
+require('dotenv').config()
 
-//Se Establece la cadena de conexion que proporciona Mongo Atlas
-//mongodb+srv://Dennis2003:<password>@cluster0.euw1ldq.mongodb.net/
+const mongoose = require('mongoose')
 
-//Se cambia <password> por la contraseña que se usara ademas de agregar al final el nombre de la BD
+//const MONGODB_URI = 'mongodb+srv://byrontosh:sistemas@cluster0.6e8zntc.mongodb.net/test'
+const MONGODB_URI = 'mongodb://localhost:27017/portfolio'
 
 
-const connectDB = async () => {
+//HACER LA CONEXCION A ALA BASE DE DATOS
+
+
+connection = async()=>{
     try {
-        await mongoose.connect(process.env.MONGODB_URI, {
-            useNewUrlParser: true,
-            useUnifiedTopology: true,
-        });
-        console.log("Database is connected");
+        //INVOCAR AL METODO CONNECT
+         await mongoose.connect(MONGODB_URI)
+        console.log("Database is connected")
     } catch (error) {
-        console.error("Error connecting to database:", error);
+        //RESPUESTA DE LA PROMESA
+        console.log(error);
     }
-};
+}
+//EXPORATR EL METODO CONECTAR
+module.exports = connection
 
-module.exports = connectDB;
